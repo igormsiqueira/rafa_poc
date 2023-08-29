@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <files-path
+        name="shared"
+        path="shared/" />
+    <external-files-path
+        name="files"
+        path="/" />
+    <files-path
+        name="app_Images"
+        path="/" />
+    <cache-path
+        name="cache_pictures"
+        path="/" />
+    <external-files-path
+        name="files"
+        path="Documents" />
+
+    <external-files-path name="files" path="Documents" />
+
+</paths>
